@@ -155,3 +155,4 @@ cython_debug/
 # Mostly because there's a good chance some anti-plagiarism software will catch it
 # This is just easier than worrying about getting a lecture about "don't plagiarize your work" and such.
 osc-data/
+output-oscs/
